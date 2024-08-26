@@ -12,7 +12,7 @@ import range_bar from './range_bar.svg';
 import right_arrow from './right_arrow.svg';
 import Search from './Search.svg';
 import select from './select.svg';
-import img from './img.png';
+
 
 export const assets={
     Arrow_down,
@@ -29,6 +29,6 @@ export const assets={
     right_arrow,
     Search,
     select,
-    img
+   
 }
 
